@@ -1,0 +1,9 @@
+{
+  "version": "1.67b",
+  "changes": [
+    "Added new biome: Sh@d0w Forest",
+    "Fixed issue with <entities> not spawning",
+    "BUG? world continues past bottom (ref: A.BENEATH)"
+  ],
+  "checksum": "??x3f9"
+}
